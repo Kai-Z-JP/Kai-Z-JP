@@ -1,13 +1,13 @@
 ### こんにちは
 
-![https://my.fsf.org/join?referrer=5694236](https://static.fsf.org/nosvn/associate/crm/5694236.png)
+[![](https://static.fsf.org/nosvn/associate/crm/5694236.png)](https://my.fsf.org/join?referrer=5694236)
 
 Java/Kotlin/JavaScript/Nuxt.jsが扱えます
 
 MinecraftのPlugin(Spigot)やMod(Forge)の開発などをしています。
 
-![https://twitter.com/Kaiz_JP](https://img.shields.io/twitter/follow/Kaiz_JP?style=social)
-![https://keybase.io/kaiz](https://img.shields.io/keybase/pgp/kaiz)
+[![](https://img.shields.io/twitter/follow/Kaiz_JP?style=social)](https://twitter.com/Kaiz_JP)
+[![](https://img.shields.io/keybase/pgp/kaiz)](https://keybase.io/kaiz)
 
 <!--
 **Kai-Z-JP/Kai-Z-JP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
